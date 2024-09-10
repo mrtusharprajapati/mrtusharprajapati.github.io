@@ -1,7 +1,7 @@
 // LandingPage.tsx
 import React from 'react';
 import './LandingPage.css'; // Import a CSS file for styling
-import { Box, Card, CardHeader, CardBody, CardFooter, Image, Stack, Heading, Text, Divider, ButtonGroup, Button } from '@chakra-ui/react'
+import { Box, Card, CardBody, CardFooter, Image, Stack, Heading, Text, Divider, ButtonGroup, Button } from '@chakra-ui/react'
 
 const LandingPage: React.FC = () => {
   return (
